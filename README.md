@@ -1,3 +1,5 @@
+# Still a work in progress!
+
 # CSGO Tailor
 
 ## Description
