@@ -1,0 +1,11 @@
+scripts/dev.ftp
+build
+generator/node_modules
+generator/items_game.txt
+generator/items_game_cdn.txt
+generator/csgo_english.txt
+generator/out/*
+!generator/out/.gitkeep
+plugin/configs/csgotailor/data.json
+plugin/plugins
+out

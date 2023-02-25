@@ -1,0 +1,339 @@
+{
+  "weapon_ak47": [
+    "hy_ak47lam_bw",
+    "gs_ak47_gold_arabesque",
+    "hy_ak47lam_green",
+    "cu_ak_jaguar",
+    "sp_mesh_tan",
+    "hy_mesh_safetyorange"
+  ],
+  "weapon_aug": [
+    "am_jade",
+    "so_space_marine",
+    "sp_mesh_forest_fire",
+    "so_pmc",
+    "sp_nukestripe_orange_aug",
+    "am_circuitboard_orange",
+    "gs_aug_sand_storm",
+    "hy_dry_wood",
+    "so_stormfront",
+    "sp_mesh_safetyblack"
+  ],
+  "weapon_awp": [
+    "hy_nuclear_skulls_redblue",
+    "gs_awp_hydra",
+    "cu_medieval_dragon_awp",
+    "hy_ddpat_pink",
+    "hy_snakeskin",
+    "sp_mesh_tan"
+  ],
+  "weapon_cz75a": [
+    "am_royal",
+    "hy_vertigoillusion",
+    "sp_palm_night",
+    "so_orange_accents2",
+    "an_silver"
+  ],
+  "weapon_deagle": [
+    "gs_deagle_fennec",
+    "aq_handcannon",
+    "hy_mottled_sand",
+    "hy_ddpat_urb",
+    "hy_varicamo_urban"
+  ],
+  "weapon_elite": [
+    "an_navy",
+    "hy_vines",
+    "am_crystallized_blue",
+    "so_space_marine",
+    "so_pmc",
+    "so_tangerine",
+    "sp_dry_wood",
+    "sp_engine_dirty",
+    "aq_forced",
+    "cu_dual_elites_rally"
+  ],
+  "weapon_famas": [
+    "hy_varicamo_desert",
+    "so_space_marine",
+    "hy_reef",
+    "am_zebra_dark",
+    "aa_wiring_yellow",
+    "am_nuclear_skulls2_famas",
+    "sp_mesh_hot_and_cold"
+  ],
+  "weapon_fiveseven": [
+    "so_pmc",
+    "hy_ducts_green",
+    "cu_vertigo_fiveseven",
+    "hy_forest_night",
+    "so_grey_nuclear_orange_five_seven",
+    "sp_tape_orange",
+    "am_crystallized_silver",
+    "sp_moro_textile_purple_yellow"
+  ],
+  "weapon_g3sg1": [
+    "am_ancient_wine",
+    "hy_desert",
+    "sp_tape_short_jungle",
+    "sp_moro_carving_lightblue",
+    "hy_arctic_contrast",
+    "sp_mesh_tan",
+    "hy_varicamo"
+  ],
+  "weapon_galilar": [
+    "aa_fade_metallic",
+    "sp_galil_caution",
+    "cu_cerbrus_galil",
+    "hy_nuclear_skulls_aqua",
+    "hy_ruins_red",
+    "sp_mesh_slashes",
+    "sp_spray_desert_sage",
+    "hy_varicamo"
+  ],
+  "weapon_glock": [
+    "so_red",
+    "so_olive",
+    "aa_vertigo_blue",
+    "so_night",
+    "am_nuclear_skulls_green",
+    "hy_ddpat_pink",
+    "am_nuclear_pattern1_glock",
+    "sp_tire_tread_red"
+  ],
+  "weapon_m249": [
+    "sp_spray",
+    "sp_mesh_python",
+    "sp_moro_carving_burnt",
+    "sp_palm_night"
+  ],
+  "weapon_m4a1_silencer": [
+    "hy_forest_boreal",
+    "gs_m4a1s_operator",
+    "gs_m4a1_vertigo",
+    "am_metals",
+    "cu_m4a1-s_silence",
+    "so_orange_accents",
+    "hy_varicamo",
+    "cu_m4a1_snake"
+  ],
+  "weapon_m4a1": [
+    "hy_red_hex",
+    "am_circuitboard_silver",
+    "sp_nukestripe_orange",
+    "hy_ddpat_urban_red",
+    "so_tornado",
+    "hy_ddpat_urb"
+  ],
+  "weapon_mac10": [
+    "aa_fade_metallic",
+    "gs_mac10_checker",
+    "so_red",
+    "aq_oiled",
+    "am_gold_brick",
+    "so_indigo_and_grey",
+    "am_nuclear_skulls3_mac10",
+    "sp_palm",
+    "sp_mirage_flowers_tan",
+    "hy_vertigospray_blue",
+    "hy_ddpat_urb"
+  ],
+  "weapon_mag7": [
+    "so_yellow",
+    "hy_nuclear_hotorange",
+    "sp_nukestripe_brown",
+    "am_urban",
+    "am_navy_shine",
+    "hy_geometric_steps_pearl",
+    "aq_steel_inferno",
+    "so_sand",
+    "an_silver",
+    "so_stormfront"
+  ],
+  "weapon_mp5sd": [
+    "am_circuitboard_aqua",
+    "sp_tape_short_rally",
+    "hy_labrat_mp5",
+    "gs_mp5_neon_flektarn"
+  ],
+  "weapon_mp7": [
+    "an_navy",
+    "sp_spray_army",
+    "aa_fade_mp7",
+    "hy_gelpen",
+    "am_circuitboard_green",
+    "sp_tape_orange",
+    "sp_zebracam_red",
+    "hy_drywood_green"
+  ],
+  "weapon_mp9": [
+    "am_metal_inlay",
+    "an_red",
+    "am_mirage_flowers_metalic",
+    "sp_moro_carving_yellow",
+    "sp_tape_orange",
+    "sp_tape_short_sand",
+    "hy_nuclear_pattern2_mp9",
+    "hy_splatter3",
+    "so_stormfront"
+  ],
+  "weapon_negev": [
+    "hy_ducts_yellow",
+    "hy_varicamo_desert",
+    "hy_vertigospray",
+    "sp_nuclear_pattern3_negev"
+  ],
+  "weapon_nova": [
+    "am_army_shine",
+    "so_red",
+    "so_green",
+    "hy_vertigoillusion_yellow",
+    "hy_ducts_grey",
+    "sp_mesh_arctic_contrast",
+    "sp_zebracam",
+    "hy_torn_camo_paints",
+    "so_sand",
+    "cu_walnut_nova"
+  ],
+  "weapon_hkp2000": [
+    "aa_fade_metallic",
+    "am_chainmail",
+    "hy_granite",
+    "so_grassland",
+    "am_black_panther"
+  ],
+  "weapon_p250": [
+    "hy_desert_multicam",
+    "sp_tape",
+    "hy_forest_boreal",
+    "hy_nuclear_skulls4_p250",
+    "aa_vertigogeo_neon",
+    "sp_desert_skulls_dawn",
+    "hy_ducts_blue",
+    "hy_blueprint_red",
+    "hy_gelpen",
+    "am_urban",
+    "sp_nukestripe_green",
+    "so_sand",
+    "gs_p250_checker"
+  ],
+  "weapon_p90": [
+    "aa_ancient_brown",
+    "sp_twigs",
+    "hy_ddpat_desert",
+    "hy_blueprint_aqua",
+    "sp_nukestripe_maroon",
+    "sp_mesh_glacier",
+    "cu_jaguar_p90",
+    "sp_spray_sand",
+    "hy_vertigogeo",
+    "sp_dapple",
+    "so_stormfront",
+    "sp_mesh_hot_and_cold",
+    "sp_moro_textile_green_vine"
+  ],
+  "weapon_bizon": [
+    "hy_lizard_skin",
+    "aq_brass",
+    "aa_wiring",
+    "so_red",
+    "am_carbon_fiber",
+    "so_grey_nuclear_green_bizon",
+    "hy_blueprint_white",
+    "sp_nukestripe_brown",
+    "hy_varicamo_night",
+    "sp_tape_short_sand",
+    "sp_tape_short_urban"
+  ],
+  "weapon_revolver": [
+    "aa_fade_metallic_revolver",
+    "sp_tape",
+    "hy_brush_camo_tan",
+    "so_night",
+    "so_orange_accents3"
+  ],
+  "weapon_sawedoff": [
+    "aa_fade_metallic",
+    "aa_vertigo_red",
+    "hy_varicamo_red",
+    "sp_nukestripe_brown",
+    "hy_desert_bloom",
+    "aq_steel",
+    "sp_spray_desert_sage",
+    "sp_snake"
+  ],
+  "weapon_scar20": [
+    "am_carbon_fiber",
+    "so_pmc",
+    "sp_mesh_sand",
+    "so_stormfront"
+  ],
+  "weapon_sg556": [
+    "an_navy",
+    "sp_desert_skulls",
+    "aq_damascus_sg553",
+    "aa_desert_bloom_bright",
+    "sp_nukestripe_maroon_sg553",
+    "sp_mesh_python",
+    "cu_sg553_caution",
+    "cu_sg553_rally",
+    "aa_ruins_green",
+    "sp_tape_dots_waves"
+  ],
+  "weapon_ssg08": [
+    "aa_fade_grassland",
+    "so_moss",
+    "am_carbon_fiber",
+    "cu_ssg08_scorpion",
+    "hy_ssg08_marker",
+    "gs_ssg08_checker",
+    "sp_tape_short_jungle",
+    "sp_zebracam_red",
+    "sp_palm_shadow"
+  ],
+  "weapon_tec9": [
+    "sp_mesh_army",
+    "hy_ancient_tiles_peach",
+    "aq_brass",
+    "so_olive",
+    "sp_nukestripe_green_tec9",
+    "am_crystallized",
+    "gs_tec9_envoy",
+    "hy_nuclear_skulls5_tec9",
+    "hy_varicamo"
+  ],
+  "weapon_ump45": [
+    "aa_flames",
+    "hy_blueprint_bluered",
+    "aa_fade_ump",
+    "sp_nukestripe_maroon",
+    "hy_gelpen",
+    "so_indigo_and_grey",
+    "aa_engine_performance",
+    "hy_mottled_sand",
+    "sp_dapple",
+    "hy_ddpat_urb"
+  ],
+  "weapon_usp_silencer": [
+    "sp_ancient_bright",
+    "sp_mesh_safetyred",
+    "sp_leaves",
+    "hy_varicamo_night",
+    "am_lizard_red",
+    "am_ddpat_purple",
+    "cu_usp_sandpapered",
+    "hy_indigo_usp"
+  ],
+  "weapon_xm1014": [
+    "am_ancient_warm",
+    "so_moss",
+    "aq_blued",
+    "sp_tire_tread_blue",
+    "am_nuclear_skulls1_xm1014",
+    "hy_varicamo_desert",
+    "am_moro_textile_bright",
+    "sp_nukestripe_maroon",
+    "sp_tape_dots_urban",
+    "hy_varicamo_blue"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "hami"
+  ],
+  "parserOptions": {
+    "project": "./generator/tsconfig.json"
+  },
+  "root": true,
+  "rules": {
+    "max-lines": "off"
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "aq_oiled": {
+    "weapon_mac10": [
+      {
+        "name": "Blue Gem",
+        "value": 19
+      },
+      {
+        "name": "Blue Gem",
+        "value": 22
+      },
+      {
+        "name": "Blue Gem",
+        "value": 80
+      },
+      {
+        "name": "Blue Gem",
+        "value": 95
+      },
+      {
+        "name": "Blue Gem",
+        "value": 199
+      },
+      {
+        "name": "Blue Gem",
+        "value": 239
+      },
+      {
+        "name": "Blue Gem",
+        "value": 251
+      },
+      {
+        "name": "Blue Gem",
+        "value": 295
+      },
+      {
+        "name": "Blue Gem",
+        "value": 313
+      },
+      {
+        "name": "Blue Gem",
+        "value": 349
+      },
+      {
+        "name": "Blue Gem",
+        "value": 406
+      },
+      {
+        "name": "Blue Gem",
+        "value": 503
+      },
+      {
+        "name": "Blue Gem",
+        "value": 667
+      },
+      {
+        "name": "Blue Gem",
+        "value": 748
+      },
+      {
+        "name": "Blue Gem",
+        "value": 807
+      },
+      {
+        "name": "Blue Gem",
+        "value": 831
+      },
+      {
+        "name": "Blue Gem",
+        "value": 890
+      },
+      {
+        "name": "Blue Gem",
+        "value": 944
+      }
+    ],
+    "weapon_knife_gut": [
+      {
+        "name": "Blue Gem",
+        "value": 165
+      },
+      {
+        "name": "Blue Gem",
+        "value": 220
+      },
+      {
+        "name": "Blue Gem",
+        "value": 421
+      },
+      {
+        "name": "Blue Gem",
+        "value": 549
+      },
+      {
+        "name": "Blue Gem",
+        "value": 567
+      },
+      {
+        "name": "Blue Gem",
+        "value": 647
+      },
+      {
+        "name": "Blue Gem",
+        "value": 928
+      },
+      {
+        "name": "Blue Gem",
+        "value": 962
+      }
+    ],
+    "weapon_knife_tactical": [
+      {
+        "name": "Blue Gem",
+        "value": 29
+      },
+      {
+        "name": "Blue Gem",
+        "value": 248
+      },
+      {
+        "name": "Blue Gem",
+        "value": 306
+      },
+      {
+        "name": "Blue Gem",
+        "value": 505
+      },
+      {
+        "name": "Blue Gem",
+        "value": 510
+      },
+      {
+        "name": "Blue Gem",
+        "value": 618
+      },
+      {
+        "name": "Blue Gem",
+        "value": 652
+      },
+      {
+        "name": "Blue Gem",
+        "value": 703
+      },
+      {
+        "name": "Blue Gem",
+        "value": 770
+      },
+      {
+        "name": "Blue Gem",
+        "value": 798
+      },
+      {
+        "name": "Blue Gem",
+        "value": 838
+      }
+    ],
+    "weapon_bayonet": [
+      {
+        "name": "Blue Gem",
+        "value": 179
+      },
+      {
+        "name": "Blue Gem",
+        "value": 321
+      },
+      {
+        "name": "Blue Gem",
+        "value": 442
+      },
+      {
+        "name": "Blue Gem",
+        "value": 496
+      },
+      {
+        "name": "Blue Gem",
+        "value": 555
+      },
+      {
+        "name": "Blue Gem",
+        "value": 588
+      },
+      {
+        "name": "Blue Gem",
+        "value": 592
+      },
+      {
+        "name": "Blue Gem",
+        "value": 670
+      },
+      {
+        "name": "Blue Gem",
+        "value": 698
+      },
+      {
+        "name": "Blue Gem",
+        "value": 828
+      },
+      {
+        "name": "Blue Gem",
+        "value": 916
+      }
+    ],
+    "weapon_knife_stiletto": [
+      {
+        "name": "Blue Gem",
+        "value": 43
+      },
+      {
+        "name": "Blue Gem",
+        "value": 92
+      },
+      {
+        "name": "Blue Gem",
+        "value": 182
+      },
+      {
+        "name": "Blue Gem",
+        "value": 214
+      },
+      {
+        "name": "Blue Gem",
+        "value": 330
+      },
+      {
+        "name": "Blue Gem",
+        "value": 371
+      },
+      {
+        "name": "Blue Gem",
+        "value": 398
+      },
+      {
+        "name": "Blue Gem",
+        "value": 407
+      },
+      {
+        "name": "Blue Gem",
+        "value": 494
+      },
+      {
+        "name": "Blue Gem",
+        "value": 638
+      },
+      {
+        "name": "Blue Gem",
+        "value": 749
+      },
+      {
+        "name": "Blue Gem",
+        "value": 808
+      },
+      {
+        "name": "Blue Gem",
+        "value": 838
+      },
+      {
+        "name": "Blue Gem",
+        "value": 868
+      },
+      {
+        "name": "Blue Gem",
+        "value": 885
+      },
+      {
+        "name": "Blue Gem",
+        "value": 913
+      },
+      {
+        "name": "Blue Gem",
+        "value": 928
+      },
+      {
+        "name": "Blue Gem",
+        "value": 964
+      },
+      {
+        "name": "Blue Gem",
+        "value": 965
+      }
+    ],
+    "weapon_knife_karambit": [
+      {
+        "name": "Blue Gem",
+        "value": 34
+      },
+      {
+        "name": "Blue Gem",
+        "value": 73
+      },
+      {
+        "name": "Blue Gem",
+        "value": 262
+      },
+      {
+        "name": "Blue Gem",
+        "value": 269
+      },
+      {
+        "name": "Blue Gem",
+        "value": 387
+      },
+      {
+        "name": "Blue Gem",
+        "value": 442
+      },
+      {
+        "name": "Blue Gem",
+        "value": 463
+      },
+      {
+        "name": "Blue Gem",
+        "value": 470
+      },
+      {
+        "name": "Blue Gem",
+        "value": 776
+      },
+      {
+        "name": "Blue Gem",
+        "value": 809
+      },
+      {
+        "name": "Blue Gem",
+        "value": 853
+      },
+      {
+        "name": "Blue Gem",
+        "value": 868
+      },
+      {
+        "name": "Blue Gem",
+        "value": 888
+      },
+      {
+        "name": "Blue Gem",
+        "value": 902
+      },
+      {
+        "name": "Blue Gem",
+        "value": 905
+      }
+    ],
+    "weapon_ak47": [
+      {
+        "name": "Blue Gem",
+        "value": 151
+      },
+      {
+        "name": "Blue Gem",
+        "value": 168
+      },
+      {
+        "name": "Blue Gem",
+        "value": 179
+      },
+      {
+        "name": "Blue Gem",
+        "value": 321
+      },
+      {
+        "name": "Blue Gem",
+        "value": 387
+      },
+      {
+        "name": "Blue Gem",
+        "value": 555
+      },
+      {
+        "name": "Blue Gem",
+        "value": 592
+      },
+      {
+        "name": "Blue Gem",
+        "value": 661
+      },
+      {
+        "name": "Blue Gem",
+        "value": 670
+      },
+      {
+        "name": "Blue Gem",
+        "value": 760
+      },
+      {
+        "name": "Blue Gem",
+        "value": 809
+      },
+      {
+        "name": "Blue Gem",
+        "value": 955
+      }
+    ],
+    "weapon_knife_m9_bayonet": [
+      {
+        "name": "Blue Gem",
+        "value": 58
+      },
+      {
+        "name": "Blue Gem",
+        "value": 107
+      },
+      {
+        "name": "Blue Gem",
+        "value": 239
+      },
+      {
+        "name": "Blue Gem",
+        "value": 253
+      },
+      {
+        "name": "Blue Gem",
+        "value": 349
+      },
+      {
+        "name": "Blue Gem",
+        "value": 354
+      },
+      {
+        "name": "Blue Gem",
+        "value": 403
+      },
+      {
+        "name": "Blue Gem",
+        "value": 406
+      },
+      {
+        "name": "Blue Gem",
+        "value": 417
+      },
+      {
+        "name": "Blue Gem",
+        "value": 449
+      },
+      {
+        "name": "Blue Gem",
+        "value": 503
+      },
+      {
+        "name": "Blue Gem",
+        "value": 517
+      },
+      {
+        "name": "Blue Gem",
+        "value": 523
+      },
+      {
+        "name": "Blue Gem",
+        "value": 550
+      },
+      {
+        "name": "Blue Gem",
+        "value": 585
+      },
+      {
+        "name": "Blue Gem",
+        "value": 601
+      },
+      {
+        "name": "Blue Gem",
+        "value": 634
+      },
+      {
+        "name": "Blue Gem",
+        "value": 675
+      },
+      {
+        "name": "Blue Gem",
+        "value": 897
+      },
+      {
+        "name": "Blue Gem",
+        "value": 946
+      }
+    ],
+    "weapon_fiveseven": [
+      {
+        "name": "Blue Gem",
+        "value": 189
+      },
+      {
+        "name": "Blue Gem",
+        "value": 278
+      },
+      {
+        "name": "Blue Gem",
+        "value": 363
+      },
+      {
+        "name": "Blue Gem",
+        "value": 532
+      },
+      {
+        "name": "Blue Gem",
+        "value": 648
+      },
+      {
+        "name": "Blue Gem",
+        "value": 689
+      },
+      {
+        "name": "Blue Gem",
+        "value": 690
+      },
+      {
+        "name": "Blue Gem",
+        "value": 868
+      },
+      {
+        "name": "Blue Gem",
+        "value": 872
+      }
+    ]
+  },
+  "am_marble_fade": {
+    "weapon_knife_gut": [
+      {
+        "name": "Fire & Ice",
+        "value": 412
+      }
+    ],
+    "weapon_bayonet": [
+      {
+        "name": "Fire & Ice",
+        "value": 412
+      }
+    ],
+    "weapon_knife_karambit": [
+      {
+        "name": "Fire & Ice",
+        "value": 412
+      }
+    ],
+    "weapon_knife_flip": [
+      {
+        "name": "Fire & Ice",
+        "value": 412
+      }
+    ]
+  },
+  "aa_fade": {
+    "weapon_knife_gut": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 326
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 29
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 107
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 46
+      },
+      {
+        "name": "98% Fade",
+        "value": 80
+      },
+      {
+        "name": "98% Fade",
+        "value": 84
+      }
+    ],
+    "weapon_knife_tactical": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 205
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 29
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 46
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 64
+      },
+      {
+        "name": "98% Fade",
+        "value": 80
+      }
+    ],
+    "weapon_bayonet": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 29
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 46
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 21
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 64
+      }
+    ],
+    "weapon_knife_karambit": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 16
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 129
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 146
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 152
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 8
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 14
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 32
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 48
+      },
+      {
+        "name": "98% Fade",
+        "value": 5
+      },
+      {
+        "name": "98% Fade",
+        "value": 68
+      },
+      {
+        "name": "98% Fade",
+        "value": 121
+      },
+      {
+        "name": "98% Fade",
+        "value": 149
+      },
+      {
+        "name": "97% Fade",
+        "value": 27
+      },
+      {
+        "name": "97% Fade",
+        "value": 28
+      },
+      {
+        "name": "97% Fade",
+        "value": 90
+      },
+      {
+        "name": "97% Fade",
+        "value": 195
+      },
+      {
+        "name": "96% Fade",
+        "value": 9
+      },
+      {
+        "name": "96% Fade",
+        "value": 60
+      },
+      {
+        "name": "96% Fade",
+        "value": 71
+      },
+      {
+        "name": "96% Fade",
+        "value": 110
+      }
+    ],
+    "weapon_knife_flip": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 205
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 29
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 46
+      },
+      {
+        "name": "98% Fade",
+        "value": 64
+      }
+    ],
+    "weapon_knife_m9_bayonet": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 205
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 11
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 29
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 46
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 64
+      },
+      {
+        "name": "98% Fade",
+        "value": 80
+      },
+      {
+        "name": "98% Fade",
+        "value": 130
+      }
+    ],
+    "weapon_knife_widowmaker": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 16
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 129
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 146
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 152
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 8
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 14
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 32
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 48
+      },
+      {
+        "name": "98% Fade",
+        "value": 5
+      },
+      {
+        "name": "98% Fade",
+        "value": 68
+      },
+      {
+        "name": "98% Fade",
+        "value": 121
+      },
+      {
+        "name": "98% Fade",
+        "value": 149
+      }
+    ],
+    "weapon_knife_butterfly": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 0
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 0
+      },
+      {
+        "name": "98% Fade",
+        "value": 0
+      }
+    ],
+    "weapon_knife_falchion": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 326
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 107
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 147
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 29
+      },
+      {
+        "name": "98% Fade",
+        "value": 46
+      },
+      {
+        "name": "98% Fade",
+        "value": 80
+      }
+    ],
+    "weapon_knife_survival_bowie": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 29
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 46
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 107
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 21
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 64
+      }
+    ],
+    "weapon_knife_gypsy_jackknife": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 205
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 107
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 29
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 46
+      }
+    ],
+    "weapon_knife_css": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 205
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 107
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 29
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 46
+      }
+    ],
+    "weapon_knife_outdoor": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 205
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 107
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 29
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 46
+      }
+    ],
+    "weapon_knife_cord": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 41
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 87
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 93
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 205
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 34
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 84
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 105
+      },
+      {
+        "name": "99% Fade (Fake Full Fade)",
+        "value": 107
+      },
+      {
+        "name": "98% Fade",
+        "value": 11
+      },
+      {
+        "name": "98% Fade",
+        "value": 29
+      },
+      {
+        "name": "98% Fade",
+        "value": 43
+      },
+      {
+        "name": "98% Fade",
+        "value": 46
+      }
+    ],
+    "weapon_glock": [
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 763
+      },
+      {
+        "name": "100% Fade (Full Fade)",
+        "value": 105
+      }
+    ]
+  }
+}

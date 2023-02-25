@@ -1,0 +1,166 @@
+[
+  {
+    "index": 0,
+    "name": "No Level"
+  },
+  {
+    "index": 1,
+    "name": "Recruit"
+  },
+  {
+    "index": 2,
+    "name": "Private I"
+  },
+  {
+    "index": 3,
+    "name": "Private II"
+  },
+  {
+    "index": 4,
+    "name": "Private III"
+  },
+  {
+    "index": 5,
+    "name": "Corporal I"
+  },
+  {
+    "index": 6,
+    "name": "Corporal II"
+  },
+  {
+    "index": 7,
+    "name": "Corporal III"
+  },
+  {
+    "index": 8,
+    "name": "Corporal IV"
+  },
+  {
+    "index": 9,
+    "name": "Sergeant I"
+  },
+  {
+    "index": 10,
+    "name": "Sergeant II"
+  },
+  {
+    "index": 11,
+    "name": "Sergeant III"
+  },
+  {
+    "index": 12,
+    "name": "Sergeant IV"
+  },
+  {
+    "index": 13,
+    "name": "Master Sergeant I"
+  },
+  {
+    "index": 14,
+    "name": "Master Sergeant II"
+  },
+  {
+    "index": 15,
+    "name": "Master Sergeant III"
+  },
+  {
+    "index": 16,
+    "name": "Master Sergeant IV"
+  },
+  {
+    "index": 17,
+    "name": "Sergeant Major I"
+  },
+  {
+    "index": 18,
+    "name": "Sergeant Major II"
+  },
+  {
+    "index": 19,
+    "name": "Sergeant Major III"
+  },
+  {
+    "index": 20,
+    "name": "Sergeant Major IV"
+  },
+  {
+    "index": 21,
+    "name": "Lieutenant I"
+  },
+  {
+    "index": 22,
+    "name": "Lieutenant II"
+  },
+  {
+    "index": 23,
+    "name": "Lieutenant III"
+  },
+  {
+    "index": 24,
+    "name": "Lieutenant IV"
+  },
+  {
+    "index": 25,
+    "name": "Captain I"
+  },
+  {
+    "index": 26,
+    "name": "Captain II"
+  },
+  {
+    "index": 27,
+    "name": "Captain III"
+  },
+  {
+    "index": 28,
+    "name": "Captain IV"
+  },
+  {
+    "index": 29,
+    "name": "Major I"
+  },
+  {
+    "index": 30,
+    "name": "Major II"
+  },
+  {
+    "index": 31,
+    "name": "Major III"
+  },
+  {
+    "index": 32,
+    "name": "Major IV"
+  },
+  {
+    "index": 33,
+    "name": "Colonel I"
+  },
+  {
+    "index": 34,
+    "name": "Colonel II"
+  },
+  {
+    "index": 35,
+    "name": "Colonel III"
+  },
+  {
+    "index": 36,
+    "name": "Brigadier General"
+  },
+  {
+    "index": 37,
+    "name": "Major General"
+  },
+  {
+    "index": 38,
+    "name": "Lieutenant General"
+  },
+  {
+    "index": 39,
+    "name": "General"
+  },
+  {
+    "index": 40,
+    "name": "Global General"
+  }
+]
