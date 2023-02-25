@@ -29,6 +29,9 @@ public APLRes AskPluginLoad2(Handle myself, bool late, char[] error, int err_max
   CreateNative("CST_Message", Native_Message);
   CreateNative("CST_MessageToAll", Native_MessageToAll);
 
+  MarkNativeAsOptional("MemoryBlock.MemoryBlock");
+  MarkNativeAsOptional("MemoryBlock.Address.get");
+
   RegPluginLibrary("csgotailor");
   return APLRes_Success;
 }
