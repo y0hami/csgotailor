@@ -12,7 +12,8 @@ public Action Hook_OnPlayerSay(int client, const char[] command, int args) {
 
   if (g_waitingForWearValue[client] ||
       g_waitingForSeedValue[client] ||
-      g_waitingForNametagValue[client]) {
+      g_waitingForNametagValue[client] ||
+      g_waitingForSearchValue[client]) {
 
     Player player = Player.Get(client);
 
@@ -174,6 +175,15 @@ public Action Hook_OnPlayerSay(int client, const char[] command, int args) {
             player.OpenMenu(CreateMenu_Knife_Nametag(client));
           }
         }
+      }
+    } else if (g_waitingForSearchValue[client]) {
+      g_waitingForSearchValue[client] = false;
+
+      if (StrEqual(message, "!cancel")) {
+        CST_Message(client, "Search cancelled.");
+      } else {
+        player.GetMenuState().SetString("searchQuery", message);
+        player.OpenMenu(CreateMenu_Weapons_Stickers_Search(client));
       }
     }
 

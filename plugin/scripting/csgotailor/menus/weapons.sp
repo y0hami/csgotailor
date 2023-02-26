@@ -791,6 +791,7 @@ public Menu CreateMenu_Weapons_Stickers_Collections(int client) {
   player.GetMenuState().Remove("capsule");
   player.GetMenuState().Remove("stickerTeam");
   player.GetMenuState().Remove("stickerPlayer");
+  player.GetMenuState().Remove("searchQuery");
 
   char selectedTeam[MAX_TEAM_KEY_SIZE];
   char selectedTeamName[MAX_TEAM_NAME_SIZE];
@@ -807,8 +808,8 @@ public Menu CreateMenu_Weapons_Stickers_Collections(int client) {
   menu.ExitBackButton = true;
   menu.SetTitle("Loadout > %s > %s > Stickers > Collections", selectedTeamName, weaponName);
 
-  // menu.AddItem("#search", "Search", ITEMDRAW_DEFAULT);
-  // menu.AddItem("", "", ITEMDRAW_SPACER);
+  menu.AddItem("#search", "Search", ITEMDRAW_DEFAULT);
+  menu.AddItem("", "", ITEMDRAW_SPACER);
   menu.AddItem("#teams", "Team Stickers", ITEMDRAW_DEFAULT);
   menu.AddItem("#players", "Player Stickers", ITEMDRAW_DEFAULT);
   menu.AddItem("", "", ITEMDRAW_SPACER);
@@ -840,7 +841,11 @@ public int MenuHandler_Weapons_Stickers_Collections (Menu menu, MenuAction actio
 
     Player player = Player.Get(client);
 
-    if (StrEqual(option, "#teams")) {
+    if (StrEqual(option, "#search")) {
+      g_waitingForSearchValue[client] = true;
+      CST_Message(client, "Enter your search query to find stickers. Type !cancel to cancel.");
+      player.GetMenuState().SetString("type", MENU_TYPE_STICKER_SEARCH);
+    } else if (StrEqual(option, "#teams")) {
       player.OpenMenu(CreateMenu_Weapons_Stickers_Teams(client));
     } else if (StrEqual(option, "#players")) {
       player.OpenMenu(CreateMenu_Weapons_Stickers_Players(client));
@@ -942,12 +947,14 @@ public int MenuHandler_Weapons_Stickers_SelectHandler (Menu menu, MenuAction act
       player.OpenMenuAtLastItem(CreateMenu_Weapons_Stickers_Teams_Stickers(client));
     } else if (player.GetMenuState().HasKey("stickerPlayer")) {
       player.OpenMenuAtLastItem(CreateMenu_Weapons_Stickers_Players_Stickers(client));
+    } else if (player.GetMenuState().HasKey("searchQuery")) {
+      player.OpenMenuAtLastItem(CreateMenu_Weapons_Stickers_Search(client));
     }
   } else if (action == MenuAction_Cancel) {
     if (selectedItem == MenuCancel_ExitBack) {
       Player player = Player.Get(client);
 
-      if (player.GetMenuState().HasKey("capsule")) {
+      if (player.GetMenuState().HasKey("capsule") || player.GetMenuState().HasKey("searchQuery")) {
         player.OpenMenu(CreateMenu_Weapons_Stickers_Collections(client));
       } else if (player.GetMenuState().HasKey("stickerTeam")) {
         player.OpenMenu(CreateMenu_Weapons_Stickers_Teams(client));
@@ -1165,6 +1172,50 @@ public Menu CreateMenu_Weapons_Stickers_Players_Stickers(int client) {
     sticker.GetName(stickerName, sizeof(stickerName));
 
     menu.AddItem(stickerClassname, stickerName, ITEMDRAW_DEFAULT);
+  }
+
+  return menu;
+}
+
+public Menu CreateMenu_Weapons_Stickers_Search(int client) {
+  Player player = Player.Get(client);
+
+  char selectedTeam[MAX_TEAM_KEY_SIZE];
+  char selectedTeamName[MAX_TEAM_NAME_SIZE];
+  player.GetMenuState().GetString("team", selectedTeam, sizeof(selectedTeam));
+  TeamKeyToName(selectedTeam, selectedTeamName, sizeof(selectedTeamName));
+
+  Weapon selectedWeapon = view_as<Weapon>(player.GetMenuState().GetObject("weapon"));
+  char weaponClassname[MAX_CLASSNAME_SIZE];
+  char weaponName[MAX_WEAPON_NAME_SIZE];
+  selectedWeapon.GetClassname(weaponClassname, sizeof(weaponClassname));
+  selectedWeapon.GetName(weaponName, sizeof(weaponName));
+
+  char searchQuery[128];
+  player.GetMenuState().GetString("searchQuery", searchQuery, sizeof(searchQuery));
+
+  Menu menu = new Menu(MenuHandler_Weapons_Stickers_SelectHandler);
+  menu.ExitBackButton = true;
+  menu.SetTitle("Loadout > %s > %s > Stickers > Search > \"%s\"", selectedTeamName, weaponName, searchQuery);
+
+  JSON_Object stickers = g_data.GetObject("stickers").GetObject("stickers");
+
+  char stickerClassname[MAX_CLASSNAME_SIZE];
+  char stickerName[MAX_STICKER_NAME_SIZE];
+  int length = stickers.Iterate();
+  int keyLength = 0;
+  for (int i = 0; i < length; i++) {
+    keyLength = stickers.GetKeySize(i);
+    char[] key = new char[keyLength];
+    stickers.GetKey(i, key, keyLength);
+
+    Sticker sticker = view_as<Sticker>(stickers.GetObject(key));
+    sticker.GetClassname(stickerClassname, sizeof(stickerClassname));
+    sticker.GetName(stickerName, sizeof(stickerName));
+
+    if (StrContains(stickerName, searchQuery, false) > -1) {
+      menu.AddItem(stickerClassname, stickerName, ITEMDRAW_DEFAULT);
+    }
   }
 
   return menu;

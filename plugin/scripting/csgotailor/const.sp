@@ -88,6 +88,7 @@
 #define TEAM_BOTH   "BOTH"
 
 // menu types
-#define MENU_TYPE_WEAPONS     "WEAPONS"
-#define MENU_TYPE_KNIFE       "KNIFE"
-#define MENU_TYPE_GLOVES      "GLOVES"
+#define MENU_TYPE_WEAPONS           "WEAPONS"
+#define MENU_TYPE_KNIFE             "KNIFE"
+#define MENU_TYPE_GLOVES            "GLOVES"
+#define MENU_TYPE_STICKER_SEARCH    "STICKER_SEARCH"

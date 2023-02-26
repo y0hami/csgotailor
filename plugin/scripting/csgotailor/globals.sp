@@ -13,7 +13,7 @@ ArrayList g_AliasCommands;
 bool g_waitingForWearValue[MAX_PLAYERS] = { false, ... };
 bool g_waitingForSeedValue[MAX_PLAYERS] = { false, ... };
 bool g_waitingForNametagValue[MAX_PLAYERS] = { false, ... };
-// bool g_waitingForSearchValue[MAX_PLAYERS] = { false, ... };
+bool g_waitingForSearchValue[MAX_PLAYERS] = { false, ... };
 
 // sdk globals
 enum ServerPlatform {
