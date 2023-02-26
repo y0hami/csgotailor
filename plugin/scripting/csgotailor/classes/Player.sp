@@ -319,7 +319,7 @@ methodmap Player < JSON_Object {
                 WeaponSticker sticker = weapon.GetSticker(i + 1);
 
                 SetAttributeValue(econItemView, sticker.GetDefIndex(), "sticker slot %i id", i);
-                SetAttributeValue(econItemView, view_as<int>(0.0), "sticker slot %i wear", i);
+                SetAttributeValue(econItemView, sticker.GetWear(), "sticker slot %i wear", i);
               }
             }
 

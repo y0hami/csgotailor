@@ -131,7 +131,7 @@ bool IsValidAddress(Address address) {
 	return unsigned_compare(view_as<int>(address), view_as<int>(Address_MinimumValid)) >= 0;
 }
 
-bool SetAttributeValue(Address econItemView, int attrValue, const char[] format, any ...) {
+bool SetAttributeValue(Address econItemView, any attrValue, const char[] format, any ...) {
   char attr[255];
   VFormat(attr, sizeof(attr), format, 4);
 
